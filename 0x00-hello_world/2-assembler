@@ -1,0 +1,2 @@
+#!/binb/bash
+gcc -S $CFILE
